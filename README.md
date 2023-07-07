@@ -1,5 +1,5 @@
 # todo-list-node.js
-<img src="![Alt text](Todo_list_mary.png)" alt="A todo list
+<img src="img/Todo_list_mary.png" alt="A todo list
 ">
 ## Facility
  1. then clone this repository: git@github.com:maribelaristizabal/Todo_list.git
